@@ -1,0 +1,5 @@
+1.将文件复制在这个文件夹下
+2.然后git add 文件名字
+3.git commit -m "文件说明"
+4. git push origin master
+就可以了
